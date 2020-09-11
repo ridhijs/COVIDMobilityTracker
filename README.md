@@ -8,4 +8,5 @@ Leveraged Machine learning models for prediction with mobility.
 
 Members: Jeffery Zhou, Ridhi Shah, Denis Moura, Krishna Sidharth, Yug Mittal, Ariana Kha, and Kathleen Zhou
 
-Google slides: https://docs.google.com/presentation/d/1b59jgVQ8E-4plSLG3G_RQzzTY4vPheqSJvrecWovWSw/edit#slide=id.g87cc00a322_0_0
+For more information
+### Slide Deck: https://docs.google.com/presentation/d/1b59jgVQ8E-4plSLG3G_RQzzTY4vPheqSJvrecWovWSw/edit#slide=id.g87cc00a322_0_0
